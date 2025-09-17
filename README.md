@@ -45,9 +45,3 @@ python cluster.py --embeddings embeddings.pkl --method kmeans --clusters 5
 # - Output: embeddings (e.g., 512-D float vectors)
 # - Supported models: FaceNet, ArcFace, or custom models (configure in embed.py)
 
-# Contributing
-# Contributions, issues, and feature requests are welcome! 
-# Fork the repo and submit a pull request.
-
-# License
-# This project is licensed under the MIT License — see the LICENSE file for details.
